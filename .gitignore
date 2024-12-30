@@ -1,2 +1,6 @@
-# Ignore the a.exe file
-.exe
+# Ignore all .exe files
+*.exe
+
+# Optionally, ignore compiler-generated files
+*.o
+*.out
