@@ -1,5 +1,4 @@
 /*
-📚 Conditionals in C
 
 ✅ 1. if Statement
 Used to execute a block of code if a condition is true.
